@@ -2,6 +2,7 @@ package Arrays;
 /*
 Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements
 if they are in wrong order.
+TIME COMPLEXITY = O(n^2)
  */
 
 public class BubbleSort {

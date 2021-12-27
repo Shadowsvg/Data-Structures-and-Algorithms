@@ -7,6 +7,7 @@ array and an element x of array as pivot, put x at its correct position in sorte
 elements (smaller than x) before x, and put all greater elements (greater than x) after x. All this should
 be done in linear time.
  */
+//O(n^2)
 
 public class QuickSort{
     public static void main(String[] args) {
